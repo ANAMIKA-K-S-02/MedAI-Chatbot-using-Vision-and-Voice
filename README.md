@@ -69,7 +69,10 @@ python main.py
 ```
 
 ### Access the UI
-Once the script runs, open the **Gradio UI** in your browser (usually at `http://127.0.0.1:7860`).
+Once the script runs, open the **Gradio UI** in your browser at:
+```
+http://127.0.0.1:7862
+```
 
 ### Interacting with the Chatbot
 1. **Speak into the microphone** to describe symptoms.
@@ -120,3 +123,4 @@ pip install SpeechRecognition
 Contributions are welcome! Fork the repo, create a branch, and submit a PR.
 
 ---
+
