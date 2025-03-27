@@ -120,7 +120,3 @@ pip install SpeechRecognition
 Contributions are welcome! Fork the repo, create a branch, and submit a PR.
 
 ---
-
-## Contact
-For queries, reach out at **your-email@example.com**.
-
